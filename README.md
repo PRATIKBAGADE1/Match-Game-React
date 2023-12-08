@@ -14,7 +14,7 @@ The project is a timed matching game app that challenges users to match images w
 <br/>
 
 ### Design Files(ScreenShots)
-(https://assets.ccbp.in/frontend/content/react-js/match-game-sm-outputs.png)
+https://assets.ccbp.in/frontend/content/react-js/match-game-sm-outputs.png
 <details>
 <summary>Click to view</summary>
 
