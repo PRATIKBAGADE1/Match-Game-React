@@ -98,5 +98,5 @@ The app must have the following functionalities
 > - From :- GOvernment College Of Engineering Jalgaon.
 > - 
 > - So Enjoy the games guys by downloading it.
-> - Good by...!!!!
+ - Good by...!!!!
 
