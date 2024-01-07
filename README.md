@@ -94,7 +94,7 @@ The app must have the following functionalities
 
 > ### _Things to Keep in Mind_
 > - Developed by :- **Pratik Bagade** (L.Y.Computer Engineer)
-> - From :- GOvernment College Of Engineering Jalgaon.
+> - From :- Government College Of Engineering Jalgaon.
 > - 
 > - So Enjoy the games guys by downloading it.
 > - Good by...!!!!
