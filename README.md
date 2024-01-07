@@ -13,7 +13,7 @@ The project is a timed matching game app that challenges users to match images w
 </div>
 <br/>
 
-### Design Files(ScreenShots)
+### Design Files(Screenshots)
 <details>
 <summary>Click to view</summary>
 
@@ -32,7 +32,7 @@ The project is a timed matching game app that challenges users to match images w
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
+### Completion Instructions(How to Play)
 
 <details>
 <summary>Functionality to be added</summary>
